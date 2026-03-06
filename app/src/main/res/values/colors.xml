@@ -1,0 +1,8 @@
+<resources>
+    <color name="purple_500">#6750A4</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="overlay_bg">#CC1E1E1E</color>
+    <color name="baseline_color">#FFFFFFFF</color>
+    <color name="arm_color">#FFFF5252</color>
+    <color name="text_color">#FFFFFFFF</color>
+</resources>
