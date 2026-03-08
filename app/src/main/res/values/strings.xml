@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">悬浮量角器</string>
+    <string name="instruction_text">授予“显示在其他应用上层”权限后，点击启动悬浮量角器。\n拖动量角器外框可移动位置，拖动红色边可调整角度。</string>
+    <string name="start_overlay">启动悬浮量角器</string>
+    <string name="stop_overlay">关闭悬浮量角器</string>
+    <string name="notification_title">悬浮量角器正在运行</string>
+    <string name="notification_text">点击应用可关闭或重新配置量角器。</string>
+    <string name="close_overlay">关闭</string>
+</resources>
